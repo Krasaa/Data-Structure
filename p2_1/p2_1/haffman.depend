@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1543671045 source:c:\users\dell\desktop\haffman\hftree.cpp
+	<string>
+	<iostream>
+	"hftree.h"
+	<fstream>
+
+1543671087 
+
+1543671087 source:c:\users\dell\desktop\haffman\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"hftree.h"
+
+1543648447 c:\users\dell\desktop\haffman\hftree.h
+	<string>
+
+1543674548 source:d:\×÷ÒµÃÇ\Êı¾İ½á¹¹\p2_1\haffman\hftree.cpp
+	<string>
+	<iostream>
+	"hftree.h"
+	<fstream>
+	<cstdlib>
+
+1543648447 d:\×÷ÒµÃÇ\Êı¾İ½á¹¹\p2_1\haffman\hftree.h
+	<string>
+
+1543673386 source:d:\×÷ÒµÃÇ\Êı¾İ½á¹¹\p2_1\haffman\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"hftree.h"
+
+1543674097 source:/media/chencong/14EE36F8EE36D1AA/ä½œä¸šä»¬/æ•°æ®ç»“æ„/p2_1/haffman/hftree.cpp
+	<string>
+	<iostream>
+	"hftree.h"
+	<fstream>
+	<cstdlib>
+
+1543648447 /media/chencong/14EE36F8EE36D1AA/ä½œä¸šä»¬/æ•°æ®ç»“æ„/p2_1/haffman/hftree.h
+	<string>
+
+1543673386 source:/media/chencong/14EE36F8EE36D1AA/ä½œä¸šä»¬/æ•°æ®ç»“æ„/p2_1/haffman/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"hftree.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1541248529 source:c:\users\dell\desktop\multifunction\main.cpp
+	<iostream>
+	"node.h"
+	"linknode.h"
+
+1541146341 source:c:\users\dell\desktop\multifunction\node.cpp
+	"node.h"
+
+1541146342 c:\users\dell\desktop\multifunction\node.h
+
+1541248511 source:c:\users\dell\desktop\multifunction\linknode.cpp
+	"linknode.h"
+	"node.h"
+
+1541244403 c:\users\dell\desktop\multifunction\linknode.h
+	"node.h"
+	<iostream>
+
+1541308004 source:d:\作业们\数据结构\multifunction\linknode.cpp
+	"linknode.h"
+	"node.h"
+
+1541302945 d:\作业们\数据结构\multifunction\linknode.h
+	"node.h"
+	<iostream>
+
+1541252795 d:\作业们\数据结构\multifunction\node.h
+
+1541308698 source:d:\作业们\数据结构\multifunction\main.cpp
+	<iostream>
+	"node.h"
+	"linknode.h"
+
+1541146341 source:d:\作业们\数据结构\multifunction\node.cpp
+	"node.h"
+

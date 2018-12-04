@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1540897158 source:f:\1c++程序设计\数据结构\线性表\longlongint\longlongint.cpp
+	<string>
+	<iostream>
+	"longlongint.h"
+	"node.h"
+	<math.h>
+
+1540856338 f:\1c++程序设计\数据结构\线性表\longlongint\longlongint.h
+	<string>
+	<iostream>
+	"node.h"
+
+1540897823 source:f:\1c++程序设计\数据结构\线性表\longlongint\main.cpp
+	<iostream>
+	<string>
+	"longlongint.h"
+
+1540196822 source:f:\1c++程序设计\数据结构\线性表\longlongint\functions.cpp
+	"functions.h"
+	<string>
+
+1539523626 f:\1c++程序设计\数据结构\线性表\longlongint\functions.h
+	<string>
+
+1540820494 f:\1c++程序设计\数据结构\线性表\longlongint\node.h
+
+1540820494 source:f:\1c++程序设计\数据结构\线性表\longlongint\node.cpp
+	"node.h"
+
+1541309970 source:d:\作业们\数据结构\longlongint\longlongint.cpp
+	<string>
+	<iostream>
+	"longlongint.h"
+	"node.h"
+	<math.h>
+
+1540856338 d:\作业们\数据结构\longlongint\longlongint.h
+	<string>
+	<iostream>
+	"node.h"
+
+1541327900 d:\作业们\数据结构\longlongint\node.h
+
+1540899824 source:d:\作业们\数据结构\longlongint\main.cpp
+	<iostream>
+	<string>
+	"longlongint.h"
+	"functions.h"
+
+1540820494 source:d:\作业们\数据结构\longlongint\node.cpp
+	"node.h"
+
+1540899764 source:d:\作业们\数据结构\longlongint\functions.cpp
+	"functions.h"
+	<string>
+
+1541309970 d:\作业们\数据结构\longlongint\functions.h
+	<string>
+
+1540899764 source:d:\作业们\数据结构\p1_1\functions.cpp
+	"functions.h"
+	<string>
+
+1541309970 d:\作业们\数据结构\p1_1\functions.h
+	<string>
+
+1540899824 source:d:\作业们\数据结构\p1_1\main.cpp
+	<iostream>
+	<string>
+	"longlongint.h"
+	"functions.h"
+
+1540856338 d:\作业们\数据结构\p1_1\longlongint.h
+	<string>
+	<iostream>
+	"node.h"
+
+1541327900 d:\作业们\数据结构\p1_1\node.h
+
+1540820494 source:d:\作业们\数据结构\p1_1\node.cpp
+	"node.h"
+
+1541334910 source:d:\作业们\数据结构\p1_1\longlongint.cpp
+	<string>
+	<iostream>
+	"longlongint.h"
+	"node.h"
+

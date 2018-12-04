@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1540774701 source:c:\users\dell\desktop\park\main.cpp
+	<iostream>
+	"seqStack.h"
+	<string>
+	"car.h"
+	"queue.h"
+
+1540774633 c:\users\dell\desktop\park\seqstack.h
+	<string>
+	"car.h"
+
+1540774633 source:c:\users\dell\desktop\park\seqstack.cpp
+	"seqStack.h"
+	<iostream>
+	<string>
+
+1540732088 source:c:\users\dell\desktop\park\car.cpp
+	"car.h"
+
+1540730488 c:\users\dell\desktop\park\car.h
+
+1540774633 c:\users\dell\desktop\park\queue.h
+	"car.h"
+	<iostream>
+
+1540774642 source:c:\users\dell\desktop\park\queue.cpp
+	"queue.h"
+	"car.h"
+
+1540732088 source:d:\作业们\数据结构\park\car.cpp
+	"car.h"
+
+1540910741 d:\作业们\数据结构\park\car.h
+
+1540976114 source:d:\作业们\数据结构\park\main.cpp
+	<iostream>
+	"seqStack.h"
+	<string>
+	"car.h"
+	"queue.h"
+
+1540946428 d:\作业们\数据结构\park\seqstack.h
+	<string>
+	"car.h"
+
+1540774633 d:\作业们\数据结构\park\queue.h
+	"car.h"
+	<iostream>
+
+1540774642 source:d:\作业们\数据结构\park\queue.cpp
+	"queue.h"
+	"car.h"
+
+1540910775 source:d:\作业们\数据结构\park\seqstack.cpp
+	"seqStack.h"
+	<iostream>
+	<string>
+	"queue.h"
+
+1540732088 source:d:\作业们\数据结构\p1_3\car.cpp
+	"car.h"
+
+1540910741 d:\作业们\数据结构\p1_3\car.h
+
+1540976114 source:d:\作业们\数据结构\p1_3\main.cpp
+	<iostream>
+	"seqStack.h"
+	<string>
+	"car.h"
+	"queue.h"
+
+1540946428 d:\作业们\数据结构\p1_3\seqstack.h
+	<string>
+	"car.h"
+
+1540774633 d:\作业们\数据结构\p1_3\queue.h
+	"car.h"
+	<iostream>
+
+1540774642 source:d:\作业们\数据结构\p1_3\queue.cpp
+	"queue.h"
+	"car.h"
+
+1540910775 source:d:\作业们\数据结构\p1_3\seqstack.cpp
+	"seqStack.h"
+	<iostream>
+	<string>
+	"queue.h"
+
